@@ -1,4 +1,6 @@
 {
-  "license":"8J5SXN5P73P2XCPOR37VMPTHTD6FX270",
-  "server":"carism"
+  "license": "8J5SXN5P73P2XCPOR37VMPTHTD6FX270",
+  "server": "carism",
+  "version": "1.2",
+  "validation": true
 }
